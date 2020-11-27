@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.2.2)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - Toast-Swift (5.0.1)
+  - youtube-ios-player-helper (1.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage
+  - Toast-Swift
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - Toast-Swift
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  youtube-ios-player-helper: 40b96e52c22445f0fdc43731cefa32c67075ff81
+
+PODFILE CHECKSUM: 3b8dad2ba698f27b4960498770adf3ac5d2a4296
+
+COCOAPODS: 1.10.0
