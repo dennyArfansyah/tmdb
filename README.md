@@ -1,2 +1,2 @@
 # tmdb
-This is an iOS app using MVC design patter
+This is an iOS app using MVC design pattern
